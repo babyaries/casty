@@ -1,4 +1,4 @@
 # casty
 
 Listen To HK Radio Online!
-bit.ly/castyhk
+http://bit.ly/castyhk
