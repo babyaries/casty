@@ -21,6 +21,7 @@
   <tr>
     <td><a href="../casty/903.html"><img src="https://upload.wikimedia.org/wikipedia/zh/3/31/CR2_Logo.svg" width="82" height="86" title="叱咤903" alt="叱咤903"></a></td>
     <td><a href="../casty/AM864.html"><img src="https://upload.wikimedia.org/wikipedia/zh/c/cc/AM864.svg" width="82" height="86" title="AM864" alt="AM864"></a></td>
+    <td><a href="../casty/d100.html"><img src="https://upload.wikimedia.org/wikipedia/commons/9/97/D100_New_logo.png" width="82" height="86" title="AM864" alt="AM864"></a></td>
   </tr>
 </table>
   </center> 
